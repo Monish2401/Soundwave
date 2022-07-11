@@ -1,0 +1,13 @@
+
+.big-banner{
+	background-image: url('../images/11.jpg');
+	min-height: 1000;
+	margin: 10px;
+	margin-bottom: 10px;
+}
+.table{
+   grid-row-end: 40px;
+   column-width: 40px;
+	color: white;
+	position: top ;
+}
